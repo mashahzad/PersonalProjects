@@ -1,0 +1,21 @@
+
+			RFID IN HEALTH CARE
+ 
+INTRODUCTION
+RFID is the abbreviation of Radio frequency identification. RFID modules use electromagnetic fields to transfer data between the card and the reader. Different tags are attached to objects and when we place that object in front of the reader, the reader reads that tags.
+
+ABOUT THIS MODULE:
+A Generic View
+RFID systems can track and recognise a number of devices using unique tag numbers in real time. RFID cards can be affixed to objects in a hospital. Primary resources including Doctors, Critical Patients, Nurses , Stretchers,important equipments, etc, in this way, can be tracked in real time and updated for their precise locations. 
+
+In campus hospitals, RFID Modules handle critical tasks like registering the attendence of Medical staff, counting visitors, tracing Doctors, Nurses, Paramedics and deploy messages to hand held devices of the staff for better workforce distribution and management.
+An Emergency TOOL
+In untoward, life threatning situations like Natural Disasters, Fire Breakout, Panic, etc. An effective and rapid evacuation plan laid out by the use of RFID croud Zoning can help save maximum lives by supplying immediate and adequate force at differerntly distributed target sites.
+
+Conclusion
+
+RFID tecnology has a brighter future in the coming years. Many smart cities are adopting RFID systems for its low run cost and maximum efficiency. It is an underrated technology for its surfacial approach to landscape problems and therefore is undermined. 
+Use of RFIDs cut costs, improve overall organisational performance and act as passive agents with no harm to the environment. RFIDs tick all the boxes so as to be a technology ready for the future.
+
+
+
