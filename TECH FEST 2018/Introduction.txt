@@ -1,0 +1,13 @@
+Tech Fest 2018
+
+The Tech Fest 2018 was a one day technology exhibition held at my university college,
+back in February of 2018. it was worderful experience to participate and lead a team of 
+six people, simultaneously working on two working models- namely "Electronic Voting Machine" 
+and "Sample Presentation-internet of Things".
+
+We won many praises from our professors and faculties from other depatments. We fell little
+short of winning the prize for the best exhibit but were contented to be part of such a wonderful 
+initiative. 
+
+I hope we will get more such wonderful opportunities in the future.
+Until then, feel free to explore my projects.
