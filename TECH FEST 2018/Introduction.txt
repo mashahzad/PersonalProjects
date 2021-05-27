@@ -1,7 +1,7 @@
 Tech Fest 2018
 
 The Tech Fest 2018 was a one day technology exhibition held at my university college,
-back in February of 2018. it was worderful experience to participate and lead a team of 
+back in February of 2018. it was a worderful experience to participate and lead a team of 
 six people, simultaneously working on two working models- namely "Electronic Voting Machine" 
 and "Sample Presentation-internet of Things".
 
